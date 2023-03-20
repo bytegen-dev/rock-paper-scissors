@@ -1,0 +1,15 @@
+:root{
+    --bg-color1: #f5ecf5;
+    --bg-color2: #000000;
+    --bg-color3: #251b25;
+    --text-color1: #430a48;
+    --text-color2: #fff;
+    --text-color3: #f4e9f4;
+    --error-color1: #e31c1c;
+    --error-color2: #f7d010;
+    --success-color1: #39ae43;
+    --success-color2: #0099ff;
+    --font-size-1: 20px;
+    --font-size-2: 20px;
+    --font-size-3: 20px;
+}
